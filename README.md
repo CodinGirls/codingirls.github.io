@@ -1,4 +1,9 @@
-codingirls.github.io
-====================
+# pythongirls.github.io
 
-the Codingirls.org main site pelican publish repo.
+
+## Changelog
+
+- 140119 ZQ publish base Pelican
+- 140107 ZQ created githuba repo.
+
+
